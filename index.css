@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center
+}
+.newGame-btn {
+    margin-top: 30px;
+    padding: 5px;
+    background-color: transparent;
+    color: #9AABD8;
+    font-size: 18px;
+    border: none;
+    outline: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+h3{
+    font-size: 40px;
+    color: white;
+    margin-bottom: 21px;
+    margin-top: 50px
+}
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 100px;
+}
+
+.score{
+    height: 120px;
+    width: 155px;
+    background-color: black;
+    font-size: 90px;
+    border-radius: 5px;
+    margin-bottom: 26px;
+     
+}
+.score p{
+    color: #F94F6D;
+    line-height: 120px;
+}
+.buttons{
+    display: flex;
+    gap: 11px;
+}
+.plus-btn{
+    height: 45px;
+    width: 45px;
+    background-color: transparent;
+    color: #9AABD8;
+    font-size: 18px;
+    border: none;
+    outline: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+
